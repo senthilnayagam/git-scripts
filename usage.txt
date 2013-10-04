@@ -1,0 +1,11 @@
+
+
+grep the files which you want in the pipe and check their history
+
+git ls-files | ruby git_file_history.rb 
+
+
+
+notice
+
+expect renames
