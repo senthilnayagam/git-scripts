@@ -1,0 +1,19 @@
+
+* mac or linux operating system
+* git and git repository for the scripts
+* awk
+* cut
+* sort
+* grep
+* find
+* head
+* tail
+* xargs
+* uniq
+* tr
+* sed
+* parallel
+
+* 
+
+by with grit gem 
