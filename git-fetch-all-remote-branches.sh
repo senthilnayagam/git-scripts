@@ -1,4 +1,4 @@
-
+#!/bin/sh
 # if we need to do trial run, need to build upon
 # for remote in `git branch -r | grep -v master `; do echo $remote ; done
 
