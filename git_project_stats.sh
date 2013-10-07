@@ -11,3 +11,13 @@ git shortlog -s | sort -nr
 
 
 #git --no-pager shortlog
+
+echo "first commit"
+git --no-pager log $(git log --reverse --pretty=format:%H|head -1)
+
+
+
+echo "last commit"
+git --no-pager log -1
+
+
